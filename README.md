@@ -1,4 +1,3 @@
-[![MasterHead](http:https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F86%2FFenerbah%25C3%25A7e_SK.png&tbnid=eOHJ5e-t0QmOoM&vet=12ahUKEwjxsp2bsaWAAxX2GxAIHcscDZUQMygBegUIARDAAQ..i&imgrefurl=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FFenerbah%25C3%25A7e_(futbol_tak%25C4%25B1m%25C4%25B1)&docid=y4cv07hWLrVztM&w=450&h=450&q=fenerbahce%20maclari&ved=2ahUKEwjxsp2bsaWAAxX2GxAIHcscDZUQMygBegUIARDAAQ)
 
 
 <h1 align="center">Hi 👋, I'm Qalib</h1>
