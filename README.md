@@ -1,4 +1,4 @@
-<h3 align="left">Stats:</h3>
+<h3 align="left">💎 Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qalibismayilli&" alt="qalibismayilli" /></p>
 <p align="left">
 </p>
