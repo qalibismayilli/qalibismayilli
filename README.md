@@ -1,4 +1,5 @@
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Stats:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qalibismayilli&" alt="qalibismayilli" /></p>
 <p align="left">
 </p>
 
@@ -7,4 +8,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qalibismayilli&show_icons=true&locale=en&layout=compact" alt="qalibismayilli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qalibismayilli&" alt="qalibismayilli" /></p>
