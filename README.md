@@ -13,5 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qalibismayilli&show_icons=true&locale=en&layout=compact" alt="qalibismayilli" /></p>
 
-[![FolksDEV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folksdev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qalibismayilli&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
