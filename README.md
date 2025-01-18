@@ -3,8 +3,6 @@
 <p align="left">
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=qalibismayilli)
-
 <h3 align="left"> Have experience on languages and tools :</h3>
 <blockquote>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
@@ -22,7 +20,4 @@
 
 
 [![Galib's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qalibismayilli&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qalibismayilli)
 
