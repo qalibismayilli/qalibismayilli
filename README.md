@@ -21,3 +21,6 @@
 
 [![Galib's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qalibismayilli&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qalibismayilli)
+
