@@ -1,6 +1,6 @@
 <h3 align="left">💎 Stats:</h3>
-<p><img align="center" src="github-readme-stats.vercel.app/api?username=qalibismayilli&theme=blue-green" alt="qalibismayilli" /></p>
- ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qalibismayilli)
+<p><img align="center" src="github-readme-stats.vercel.app/api?username=qalibismayilli" alt="qalibismayilli" /></p>
+
 <p align="left">
 </p>
 
