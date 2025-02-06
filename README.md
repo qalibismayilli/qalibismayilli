@@ -1,5 +1,6 @@
 <h3 align="left">💎 Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qalibismayilli&theme=blue-green" alt="qalibismayilli" /></p>
+ ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qalibismayilli)
 <p align="left">
 </p>
 
