@@ -1,7 +1,7 @@
 <h3 align="left">💎 Stats:</h3>
 <p><img align="center" src="github-readme-stats.vercel.app/api?username=qalibismayilli" alt="qalibismayilli" /></p>
 
-![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada)   ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada)
+  ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qalibismayilli)
 
 
 
