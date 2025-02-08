@@ -1,5 +1,4 @@
 <h3 align="left">💎 Stats:</h3>
-<p><img align="center" src="github-readme-stats.vercel.app/api?username=qalibismayilli" alt="qalibismayilli" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qalibismayilli&theme=merko)](https://git.io/streak-stats)
 
