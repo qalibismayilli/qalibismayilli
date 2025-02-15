@@ -1,6 +1,6 @@
 <h3 align="left">💎 Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=qalibismayilli&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qalibismayilli&theme=vue-dark)](https://git.io/streak-stats)
 
 <p align="left">
 </p>
